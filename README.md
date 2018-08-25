@@ -1,2 +1,4 @@
 # Hello-World
-Learn to Git
+Learn to use Git
+
+and i am making changes
